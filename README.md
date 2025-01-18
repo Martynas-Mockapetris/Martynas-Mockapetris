@@ -25,7 +25,7 @@ Web Developer specializing in React ecosystem and modern web technologies. Focus
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Jekyll](https://img.shields.io/badge/jekyll-%23CC0000.svg?style=for-the-badge&logo=jekyll&logoColor=white)
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Martynas-Mockapetris&theme=tokyonight&hide_border=true&count_private=true&custom_title=GitHub%20Stats%20(2025+)&from=2025)
+![](https://github-readme-stats.vercel.app/api?username=Martynas-Mockapetris&theme=tokyonight&hide_border=true&count_private=true&custom_title=GitHub%20Stats%20(2025)&from=2025)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Martynas-Mockapetris&theme=tokyonight&hide_border=true&date_format=%Y-%m-%d&start_date=2025-01-01)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Martynas-Mockapetris&theme=tokyonight&hide_border=true&count_private=true&layout=compact&from=2025)
 
