@@ -8,7 +8,7 @@ Full-stack web developer passionate about building modern, responsive, and user-
 - 💡 **What I Value:** Clean code, reusable components, responsive design, and maintainable applications
 - 🌱 **Always Learning:** Exploring new technologies and improving my development workflow
 - 🤝 **Open to:** Interesting web development collaborations and open-source projects
-- 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/martynas-mockapetris) · [GitHub](https://github.com/Martynas-Mockapetris) · [Portfolio](martynas-mockapetris.github.io/Portfolio)
+- 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/martynas-mockapetris) · [GitHub](https://github.com/Martynas-Mockapetris) · [Portfolio](https://martynas-mockapetris.github.io/Portfolio/)
 
 ---
 
